@@ -1,0 +1,22 @@
+.score-board {
+    width: 100%;
+    height: 200px;
+    background-color: cadetblue;
+    padding: 20px;
+    margin-bottom: 50px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.score-text {
+    color:bisque;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.score-number {
+    font-size: 70px;
+}
